@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Text from "./components/Text";
 import Scene from "./components/Scene";
 
